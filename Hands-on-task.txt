@@ -1,0 +1,16 @@
+### Task ###
+Install Kubernet with different way minikube and other
+install Apache2 Apache with free ssl
+Install nginx and reverse proxy and install ssl
+Install kubernets ingress with free ssl
+
+kubernet GCP AWS
+Terraform KS, Graffna, Prometheus, 
+Test ELK and EFK from vm and local kubernets but for cloud AWS CloudWatch Logs or Azure Monitor logs
+Backup Stargies on aws, 
+EKS cluster backup and restore from one place to other
+
+Software development life-cycle stages -> 
+
+####
+FluxCD
